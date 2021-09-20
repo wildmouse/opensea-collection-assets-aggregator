@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/wildmouse/opensea-collection-assets-aggregator/issues"
   },
-  "homepage": "https://github.com/wildmouse/opensea-collection-assets-aggregator#readme"
+  "homepage": "https://github.com/wildmouse/opensea-collection-assets-aggregator#readme",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
 }
